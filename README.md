@@ -7,7 +7,7 @@ I mostly stay away from Microsoft GitHub, only using it when I absolutely *must*
 
 Also, these might be relevant:
  - [blog](https://rys.io/)
- - [Fediverse](https://mastodon.technology/@rysiek)
+ - [Fediverse](https://mstdn.social/@rysiek)
 
 Here are some reasons not to use Microsoft GitHub:
  - https://en.wikipedia.org/wiki/GitHub#Controversies
